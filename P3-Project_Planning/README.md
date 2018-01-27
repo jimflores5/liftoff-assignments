@@ -2,13 +2,13 @@
 For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
-[Project Planning Assignment](://education.launchcode.org/liftoff/assignments/planning/)
+[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
 
 ## Submission Instructions
 
 ### Wireframes
 
-- ["Big picture" overview of the project, plus a wireframe for the practice pages](liftoff-assignments/P3-Project_Planning/Liftoff project workflow.pdf)
+- ["Big picture" overview of the project, plus a wireframe for the practice pages](https://github.com/jimflores5/liftoff-assignments/blob/master/P3-Project_Planning/Liftoff%20project%20workflow.pdf)
 - [Wireframes for the 5 "Counting Significant Figures" tutorial pages](liftoff-assignments/P3-Project_Planning/Sig fig tutorial wireframes.pdf)
 
 ### Project Tracker
