@@ -8,7 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- ["Big picture" overview of the project, plus a wireframe for the practice pages]. (liftoff-assignments/P3-Project_Planning/Liftoff project workflow.pdf)
+- [Wireframes for the 5 "Counting Significant Figures" tutorial pages]. (liftoff-assignments/P3-Project_Planning/Sig fig tutorial wireframes.pdf)
 
 ### Project Tracker
 
