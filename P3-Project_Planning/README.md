@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 - ["Big picture" overview of the project, plus a wireframe for the practice pages](https://github.com/jimflores5/liftoff-assignments/blob/master/P3-Project_Planning/Liftoff%20project%20workflow.pdf)
-- [Wireframes for the 5 "Counting Significant Figures" tutorial pages](liftoff-assignments/P3-Project_Planning/Sig fig tutorial wireframes.pdf)
+- [Wireframes for the 5 "Counting Significant Figures" tutorial pages](https://github.com/jimflores5/liftoff-assignments/blob/master/P3-Project_Planning/Sig%20fig%20tutorial%20wireframes.pdf)
 
 ### Project Tracker
 
