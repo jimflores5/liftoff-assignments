@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-[Jim Flores' github account] (https://github.com/jimflores5)
+[Jim Flores' github account](https://github.com/jimflores5)
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
