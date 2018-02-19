@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 Provide a link to your LinkedIn account here.
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Tech resume](https://github.com/jimflores5/liftoff-assignments/blob/master/C1-Online_Profiles/Tech%20resume.pdf)
